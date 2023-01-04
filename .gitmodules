@@ -1,0 +1,9 @@
+[submodule "Project-example1"]
+	path = Project-example1
+	url = https://github.com/Kau2021/onlinebookstore.git
+[submodule "Project-example2"]
+	path = Project-example2
+	url = https://github.com/Kau2021/onlinebookstore.git
+[submodule "Project-example3"]
+	path = Project-example3
+	url = https://github.com/Kau2021/onlinebookstore.git
